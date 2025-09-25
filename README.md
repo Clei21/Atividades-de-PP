@@ -2,4 +2,5 @@
 
 ## Cleidiana 
 
-![Imagem de Queimada na Amazônia](https://s.yimg.com/uu/api/res/1.2/n.1MMmZaWPj2gHzSzw3k2Q--~B/aD0zMDcwO3c9NTQ2NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/pt/folhapress_805/e52b9be130c4c75fd687331f3d394ba3)
+![Imagem de Queimada na Amazônia](<img width="317" height="159" alt="image" src="https://github.com/user-attachments/assets/dbd40548-a33a-4014-96f0-94424a0b3dbf" />
+)
