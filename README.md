@@ -2,5 +2,4 @@
 
 ## Cleidiana 
 
-![Casa vermelha](<img width="309" height="163" alt="image" src="https://github.com/user-attachments/assets/1f4a00df-8aa2-4745-955f-283218915ee6" />
-)
+![Imagem de Queimada na Amazônia](https://s.yimg.com/uu/api/res/1.2/n.1MMmZaWPj2gHzSzw3k2Q--~B/aD0zMDcwO3c9NTQ2NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/pt/folhapress_805/e52b9be130c4c75fd687331f3d394ba3)
