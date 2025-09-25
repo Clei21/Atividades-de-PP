@@ -2,5 +2,4 @@
 
 ## Cleidiana 
 
-![Casa vermelha](<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/8c58d5e0-229b-4a78-8809-d7c01e12889f" />
-)
+![Casa vermelha](<img width="259" height="195" alt="image" src="https://github.com/user-attachments/assets/2d58521a-1574-4ed3-ae98-c529f28ed936" />)
